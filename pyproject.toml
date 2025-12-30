@@ -1,0 +1,16 @@
+[project]
+name = "google-genai-agents-course"
+version = "0.1.0"
+description = "A collection of learning notebooks and implementations based on the Google 5-Day Gen AI Agents course."
+authors = [
+    {name = "BetikuOluwatobi",email = "anthonytobynho@gmail.com"}
+]
+readme = "README.md"
+requires-python = ">=3.11"
+dependencies = [
+]
+
+
+[build-system]
+requires = ["poetry-core>=2.0.0,<3.0.0"]
+build-backend = "poetry.core.masonry.api"
