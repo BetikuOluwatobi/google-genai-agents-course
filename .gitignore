@@ -1,6 +1,6 @@
 .env
 .env.local
-node_modules/
-dist/
+.env.*.local
+.venv
 .vscode/
 .DS_Store
