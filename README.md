@@ -14,8 +14,7 @@ The goal of this project is to go beyond simple copy-pasting; each notebook incl
 
 This repository is also the codebase for my article series on Medium:
 
-* *[Link to Article 1 - e.g., Understanding Agent Reasoning]*
-* *[Link to Article 2 - e.g., Function Calling with Gemini]*
+* *[Beyond print(): Building Production-Grade Observability in Google ADK]*
 * *(More links to come)*
 
 ## 📂 Repository Structure
