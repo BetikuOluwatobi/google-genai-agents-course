@@ -71,7 +71,7 @@ You need to set up your API key to interact with the Gemini models.
 
 1. Create a copy of the example environment file:
 ```bash
-cp .env.example .env
+cp .env
 
 ```
 
