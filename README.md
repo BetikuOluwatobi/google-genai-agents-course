@@ -14,7 +14,7 @@ The goal of this project is to go beyond simple copy-pasting; each notebook incl
 
 This repository is also the codebase for my article series on Medium:
 
-* *[Beyond print(): Building Production-Grade Observability in Google ADK]*
+* *[Beyond print(): Building Production-Grade Observability in Google ADK](https://medium.com/@betikuoluwatobi7/beyond-print-building-production-grade-observability-in-google-adk-9d1b1deae73a)*
 * *(More links to come)*
 
 ## 📂 Repository Structure
