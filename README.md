@@ -51,7 +51,7 @@ This project uses Poetry to manage dependencies and a `.env` file to manage secr
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/yourusername/google-genai-agents-course.git
+git clone https://github.com/BetikuOluwatobi/google-genai-agents-course.git
 cd google-genai-agents-course
 
 ```
